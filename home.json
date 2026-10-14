@@ -1,7 +1,7 @@
 {
   "banners": [
-    { "imageUrl": "https://github.com/AdrenalineMinecraft/Adrenalinee.run/blob/main/pvpbanner.png", "targetUrl": "https://adrenalinee.run" },
-    { "imageUrl": "https://github.com/AdrenalineMinecraft/Adrenalinee.run/blob/main/pvpbanner.png", "targetUrl": "" }
+    { "imageUrl": "https://raw.githubusercontent.com/AdrenalineMinecraft/Adrenalinee.run/main/pvpbanner.png", "targetUrl": "https://adrenalinee.run" },
+    { "imageUrl": "https://raw.githubusercontent.com/AdrenalineMinecraft/Adrenalinee.run/main/pvpbanner.png", "targetUrl": "" }
   ],
   "news": [
     {
