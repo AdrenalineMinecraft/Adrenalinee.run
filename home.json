@@ -1,0 +1,17 @@
+{
+  "banners": [
+    { "imageUrl": "https://github.com/AdrenalineMinecraft/Adrenalinee.run/blob/main/pvpbanner.png", "targetUrl": "https://adrenalinee.run" },
+    { "imageUrl": "https://github.com/AdrenalineMinecraft/Adrenalinee.run/blob/main/pvpbanner.png", "targetUrl": "" }
+  ],
+  "news": [
+    {
+      "id": "1",
+      "title": "Season 2 is here!",
+      "tag": "UPDATE",
+      "description": "Join the faction server now to experience Season 2.",
+      "imageUrl": "https://github.com/AdrenalineMinecraft/Adrenalinee.run/blob/main/pvpbanner.png",
+      "link": "https://discord.gg/https://discord.gg/62H3MwG7YF",
+      "date": "2026-10-14"
+    }
+  ]
+}
