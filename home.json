@@ -2,8 +2,6 @@
   "banners": [
     { "imageUrl": "https://raw.githubusercontent.com/AdrenalineMinecraft/Adrenalinee.run/main/pvpbanner.png", "targetUrl": "https://adrenalinee.run" }
   ],
-    { "imageUrl": "https://raw.githubusercontent.com/AdrenalineMinecraft/Adrenalinee.run/main/pvpbanner.png", "targetUrl": "" }
-  ],
   "news": [
     {
       "id": "1",
